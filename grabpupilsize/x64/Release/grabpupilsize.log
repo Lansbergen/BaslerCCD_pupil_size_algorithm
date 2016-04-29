@@ -1,0 +1,12 @@
+﻿  grabpupilsize_main.cpp
+grabpupilsize_main.cpp(582): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+grabpupilsize_main.cpp(589): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+grabpupilsize_main.cpp(620): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+grabpupilsize_main.cpp(621): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+grabpupilsize_main.cpp(738): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  1 of 3874 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  grabpupilsize.vcxproj -> C:\simon\Dropbox\NIN\Video_software\grabpupilsize\x64\Release\grabpupilsize.exe
