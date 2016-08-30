@@ -1,7 +1,11 @@
 ﻿  grabpupilsize_main.cpp
-c:\simon\dropbox\nin\video_software\grabpupilsize\grabpupilsize\grabpupilsize_main.cpp(582): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
-c:\simon\dropbox\nin\video_software\grabpupilsize\grabpupilsize\grabpupilsize_main.cpp(589): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
-c:\simon\dropbox\nin\video_software\grabpupilsize\grabpupilsize\grabpupilsize_main.cpp(620): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
-c:\simon\dropbox\nin\video_software\grabpupilsize\grabpupilsize\grabpupilsize_main.cpp(621): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
-c:\simon\dropbox\nin\video_software\grabpupilsize\grabpupilsize\grabpupilsize_main.cpp(738): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\simon\dropbox\nin\video_software\ini.h(140): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\simon\dropbox\nin\video_software\grabpupilsize\grabpupilsize\grabpupilsize_main.cpp(683): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+c:\simon\dropbox\nin\video_software\grabpupilsize\grabpupilsize\grabpupilsize_main.cpp(690): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+c:\simon\dropbox\nin\video_software\grabpupilsize\grabpupilsize\grabpupilsize_main.cpp(716): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+c:\simon\dropbox\nin\video_software\grabpupilsize\grabpupilsize\grabpupilsize_main.cpp(730): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+c:\simon\dropbox\nin\video_software\grabpupilsize\grabpupilsize\grabpupilsize_main.cpp(747): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+c:\simon\dropbox\nin\video_software\grabpupilsize\grabpupilsize\grabpupilsize_main.cpp(893): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\simon\dropbox\nin\video_software\grabpupilsize\grabpupilsize\grabpupilsize_main.cpp(894): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\simon\dropbox\nin\video_software\grabpupilsize\grabpupilsize\grabpupilsize_main.cpp(920): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
   grabpupilsize.vcxproj -> C:\simon\Dropbox\NIN\Video_software\grabpupilsize\x64\Debug\grabpupilsize.exe
